@@ -5,7 +5,7 @@
 ## Getting started
 
 ```console
- git clone https://github.com/ahmdtalat/vite-tailwindcss-react-ts-template
+ git clone https://github.com/ahmdtalat/dapp-temp
 
  yarn
 
